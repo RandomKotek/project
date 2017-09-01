@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+}
+
+#lulz {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+#ZestyMemeTitle {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Comic Sans MS";
+    background-color: blue;
+    margin-bottom: 20px;
+    color: white;
+    border-bottom: 5px solid red;
+}
+
+img {
+    height: 250px;
+    width: auto;
+    border: 10px solid black;
+}
